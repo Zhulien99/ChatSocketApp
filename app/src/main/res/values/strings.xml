@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+
+    <string name="title_activity_login">Join</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">What\'s your nickname?</string>
+    <string name="action_sign_in">Join</string>
+    <string name="action_sign_in_short">Join</string>
+
+    <string name="error_field_required">This field is required</string>
+
+    <!-- messages -->
+    <string name="message_welcome">Welcome to ChatApp –</string>
+    <plurals name="message_participants">
+        <item quantity="one">there\'s %d participant</item>
+        <item quantity="other">there are %d participants</item>
+    </plurals>
+    <string name="message_user_joined">%s joined</string>
+    <string name="message_user_left">%s left</string>
+    <string name="user_action_typing">is typing</string>
+    <string name="prompt_message">Message</string>
+
+    <array name="username_colors">
+        <item>@color/username0</item>
+        <item>@color/username1</item>
+        <item>@color/username2</item>
+        <item>@color/username3</item>
+        <item>@color/username4</item>
+        <item>@color/username5</item>
+        <item>@color/username6</item>
+        <item>@color/username7</item>
+        <item>@color/username8</item>
+        <item>@color/username9</item>
+        <item>@color/username10</item>
+        <item>@color/username11</item>
+    </array>
+
+</resources>
